@@ -1,0 +1,645 @@
+,Magnitude,Place,Time
+0,0.72,"28km E of Coso Junction, CA",Sat May 15 14:40:30 51638
+1,0.57,"12km WSW of Searles Valley, CA",Tue May 11 19:53:20 51638
+2,1.6,"30km WNW of Nikiski, Alaska",Tue May 11 15:22:20 51638
+3,0.92,"9km WNW of Calipatria, CA",Tue May 11 14:51:30 51638
+4,0.77,"14km E of Desert Hot Springs, CA",Tue May 11 01:18:30 51638
+5,0.85,"17km S of Searles Valley, CA",Mon May 10 05:21:50 51638
+6,0.96,"18km ESE of Little Lake, CA",Fri May  7 20:44:00 51638
+7,1.78,"19km S of Trona, CA",Sun May  2 16:35:00 51638
+8,2.83,"14km SSW of Searles Valley, CA",Wed Apr 28 19:12:40 51638
+9,1.3,"22km NNE of Badger, Alaska",Sat Apr 24 23:59:17 51638
+10,1.5,"6km NNW of Boron, CA",Wed Apr 21 10:16:30 51638
+11,1.67,"12km SSW of Searles Valley, CA",Mon Apr 19 20:56:50 51638
+12,4.2,"18km NE of Nikolski, Alaska",Sat Apr 17 19:32:25 51638
+13,2.1,"16km S of Fern Acres, Hawaii",Fri Apr 16 03:29:40 51638
+14,0.34,"97km NNW of Nikiski, Alaska",Mon Apr 12 06:38:00 51638
+15,1.45,"13km NNW of Mojave, CA",Sun Apr 11 11:03:40 51638
+16,1.1,"103km NW of Arctic Village, Alaska",Sun Apr 11 10:12:54 51638
+17,1.0,"82km W of Haines, Alaska",Tue Apr  6 18:04:41 51638
+18,0.85,"5km SW of Idyllwild, CA",Tue Apr  6 10:28:10 51638
+19,1.45,"19km ESE of Little Lake, CA",Mon Apr  5 07:15:40 51638
+20,1.01,"6km NNW of The Geysers, CA",Fri Apr  2 10:15:00 51638
+21,2.1,"7km WSW of Progreso, B.C., MX",Tue Mar 30 18:32:40 51638
+22,1.12,"14km SSW of Searles Valley, CA",Mon Mar 29 14:17:20 51638
+23,0.26,"95km SE of King Salmon, Alaska",Thu Mar 25 05:48:30 51638
+24,4.9,"43km SE of Sinabang, Indonesia",Mon Mar 22 10:44:35 51638
+25,0.79,"10km NE of Coso Junction, CA",Sun Mar 21 09:27:00 51638
+26,0.7,"45km NNW of Yakutat, Alaska",Mon Mar 15 12:30:26 51638
+27,1.1,"71km S of Kobuk, Alaska",Mon Mar 15 09:19:16 51638
+28,2.5,"12km NNW of Mojave, CA",Sun Mar 14 14:23:40 51638
+29,0.55,"6km NW of The Geysers, CA",Sun Mar 14 14:15:00 51638
+30,0.66,"20km ESE of Little Lake, CA",Sun Mar 14 12:00:20 51638
+31,0.56,"7km NW of The Geysers, CA",Fri Mar 12 04:12:50 51638
+32,2.0,"116km SSW of Kaktovik, Alaska",Fri Mar 12 02:55:13 51638
+33,1.08,"21km ESE of Little Lake, CA",Tue Mar  9 08:26:40 51638
+34,0.94,"21km ESE of Little Lake, CA",Sun Mar  7 21:38:30 51638
+35,1.03,"24km N of Ridgecrest, CA",Sun Mar  7 02:12:20 51638
+36,0.55,"22km ESE of Little Lake, CA",Fri Mar  5 23:45:40 51638
+37,0.49,"13km NE of Ridgecrest, CA",Fri Mar  5 01:41:30 51638
+38,1.83,"16km SW of Stella, Puerto Rico",Thu Mar  4 13:03:50 51638
+39,0.51,"20km ESE of Little Lake, CA",Tue Mar  2 02:13:40 51638
+40,0.75,"19km ESE of Little Lake, CA",Mon Mar  1 13:10:50 51638
+41,0.83,"10km WNW of Toms Place, CA",Sun Feb 28 01:15:20 51638
+42,3.11,"62km E of Maneadero, B.C., MX",Sat Feb 27 04:56:10 51638
+43,0.78,"22km E of Little Lake, CA",Fri Feb 26 23:21:10 51638
+44,1.4,"48km NNW of Yakutat, Alaska",Fri Feb 26 22:20:01 51638
+45,0.5,"13km ESE of Goldfield, Nevada",Wed Feb 24 18:28:42 51638
+46,1.9,"14km N of McCloud, CA",Wed Feb 24 06:15:20 51638
+47,1.8,"14km SSW of Big Lake, Alaska",Tue Feb 23 14:28:30 51638
+48,1.13,"20km ESE of Little Lake, CA",Wed Feb 17 18:02:50 51638
+49,0.71,"11km NNW of Anza, CA",Mon Feb 15 03:45:40 51638
+50,1.5,"70km E of Whittier, Alaska",Sun Feb 14 19:59:54 51638
+51,2.1,"71km E of Whittier, Alaska",Sat Feb 13 19:26:07 51638
+52,0.98,"18km S of Searles Valley, CA",Sat Feb 13 15:00:10 51638
+53,1.11,"14km NE of Ridgecrest, CA",Fri Feb 12 03:47:50 51638
+54,1.05,"18km E of Ridgecrest, CA",Wed Feb 10 14:47:10 51638
+55,2.51,"67km N of San Juan, Puerto Rico",Mon Feb  8 01:08:40 51638
+56,1.1,"47km NNW of Yakutat, Alaska",Mon Feb  8 00:42:53 51638
+57,1.3,"7km S of Big Lake, Alaska",Sun Feb  7 22:05:50 51638
+58,1.5,"42km N of Larsen Bay, Alaska",Sat Feb  6 04:02:29 51638
+59,5.1,"72km WSW of Arica, Chile",Tue Feb  2 11:09:22 51638
+60,1.7,"22km WNW of Searles Valley, CA",Tue Feb  2 08:20:40 51638
+61,1.07,"22km NNW of Searles Valley, CA",Tue Feb  2 02:41:30 51638
+62,0.54,"9km SSE of Idyllwild, CA",Sun Jan 31 05:53:30 51638
+63,2.2,"49km NNW of Yakutat, Alaska",Fri Jan 29 22:10:07 51638
+64,1.12,"22km ENE of Little Lake, CA",Thu Jan 28 19:31:50 51638
+65,2.3,"50km NNW of Yakutat, Alaska",Thu Jan 28 15:36:36 51638
+66,2.4,"43km NNW of Yakutat, Alaska",Thu Jan 28 06:05:11 51638
+67,2.3,"46km NNW of Yakutat, Alaska",Thu Jan 28 00:13:02 51638
+68,2.9,"27km NNW of Atka, Alaska",Wed Jan 27 12:01:26 51638
+69,0.96,"15km SW of Searles Valley, CA",Tue Jan 26 04:57:40 51638
+70,1.2,"47km NNW of Yakutat, Alaska",Sat Jan 23 07:17:53 51638
+71,2.18,"69km N of San Juan, Puerto Rico",Fri Jan 22 10:25:50 51638
+72,1.37,"19km ESE of Ridgecrest, CA",Tue Jan 19 17:53:20 51638
+73,1.5,"88km NW of Arctic Village, Alaska",Mon Jan 18 00:59:02 51638
+74,1.79,"14km WSW of Searles Valley, CA",Sun Jan 17 04:32:00 51638
+75,0.62,"15km W of Searles Valley, CA",Fri Jan 15 09:56:30 51638
+76,1.02,"20km ESE of Little Lake, CA",Tue Jan 12 19:19:40 51638
+77,0.56,"7km NW of The Geysers, CA",Mon Jan 11 15:04:00 51638
+78,1.11,"21km E of Mount Hood Village, Oregon",Sun Jan 10 23:39:30 51638
+79,0.77,"27km ESE of Old Faithful Geyser, Wyoming",Sat Jan  9 22:16:20 51638
+80,0.22,"7km WNW of The Geysers, CA",Thu Jan  7 18:00:40 51638
+81,2.06,"18km ESE of Little Lake, CA",Tue Jan  5 15:44:00 51638
+82,2.01,"18km ESE of Little Lake, CA",Tue Jan  5 06:19:00 51638
+83,0.48,"17km ESE of Little Lake, CA",Mon Jan  4 06:13:20 51638
+84,3.8,"8km SW of Molos, Greece",Sun Jan  3 22:37:31 51638
+85,1.7,"90km NW of Arctic Village, Alaska",Sun Jan  3 00:28:53 51638
+86,1.0,"66km W of Big Lake, Alaska",Mon Dec 28 10:14:55 51637
+87,0.19,"20km SSE of Buckley, Washington",Sun Dec 27 16:58:50 51637
+88,3.0,"277km SE of Kodiak, Alaska",Sat Dec 26 01:59:07 51637
+89,0.98,"17km W of Searles Valley, CA",Sat Dec 26 00:04:10 51637
+90,1.0,"49km NNW of Yakutat, Alaska",Thu Dec 24 06:11:48 51637
+91,0.58,"14km SE of Anza, CA",Sat Dec 19 18:08:30 51637
+92,0.13,"31km NNE of Amboy, Washington",Fri Dec 18 11:47:10 51637
+93,0.52,"31km NNE of Amboy, Washington",Thu Dec 17 19:55:30 51637
+94,0.83,"15km SE of Anza, CA",Thu Dec 17 11:44:30 51637
+95,0.6,"148km E of Chitina, Alaska",Wed Dec 16 11:47:11 51637
+96,1.82,"14km S of Honoka'a, Hawaii",Sat Dec 12 10:14:30 51637
+97,1.0,"45km NNW of Yakutat, Alaska",Wed Dec  9 07:05:45 51637
+98,0.95,"20km W of Searles Valley, CA",Fri Dec  4 18:01:40 51637
+99,1.17,"17km SSW of Searles Valley, CA",Thu Dec  3 17:08:00 51637
+100,2.5,"85km W of Haines, Alaska",Wed Dec  2 21:41:34 51637
+101,1.5,"32km NNW of Searles Valley, CA",Tue Dec  1 14:45:00 51637
+102,1.39,"33km NNW of Searles Valley, CA",Sat Nov 28 21:16:50 51637
+103,0.4,"21km ESE of Little Lake, CA",Tue Nov 24 19:55:10 51637
+104,1.7,"74km NNW of Arctic Village, Alaska",Tue Nov 24 05:24:17 51637
+105,0.47,"21km WNW of Searles Valley, CA",Sat Nov 21 23:47:30 51637
+106,1.15,"11km NNE of Ridgecrest, CA",Fri Nov 20 21:09:40 51637
+107,0.71,"22km N of Ridgecrest, CA",Wed Nov 18 04:21:50 51637
+108,0.69,"14km WSW of Searles Valley, CA",Mon Nov 16 07:41:10 51637
+109,1.31,"10km WSW of Idyllwild, CA",Fri Nov 13 06:42:10 51637
+110,2.47,"23km N of Tierras Nuevas Poniente, Puerto Rico",Fri Nov 13 02:28:10 51637
+111,0.64,"2km SSW of Cobb, CA",Thu Nov 12 18:25:00 51637
+112,0.2,"7km NW of The Geysers, CA",Tue Nov 10 11:51:30 51637
+113,1.01,"16km ESE of Ridgecrest, CA",Mon Nov  9 10:21:50 51637
+114,0.89,"20km N of Ridgecrest, CA",Sun Nov  8 05:22:40 51637
+115,0.72,"14km NE of Ridgecrest, CA",Sat Nov  7 22:49:40 51637
+116,1.3,"63km WNW of Valdez, Alaska",Thu Nov  5 20:26:56 51637
+117,0.26,"33km NNE of Amboy, Washington",Tue Nov  3 16:17:40 51637
+118,1.06,"3km NW of Mira Loma, CA",Sat Oct 31 22:45:50 51637
+119,1.15,"15km SW of Searles Valley, CA",Tue Oct 27 10:41:30 51637
+120,2.18,"5km NNW of Waikoloa Village, Hawaii",Fri Oct 23 22:27:20 51637
+121,0.45,"21km ESE of Little Lake, CA",Wed Oct 21 05:19:50 51637
+122,1.39,"14km SW of Searles Valley, CA",Tue Oct 20 08:25:10 51637
+123,1.57,"14km NE of Ridgecrest, CA",Mon Oct 19 10:26:10 51637
+124,4.1,"87km E of Korsakov, Russia",Sun Oct 18 06:59:59 51637
+125,0.81,"7km NW of The Geysers, CA",Sun Oct 18 03:12:40 51637
+126,0.74,"10km NE of Aguanga, CA",Thu Oct 15 14:24:50 51637
+127,1.8,"19km SSW of Big Lake, Alaska",Mon Oct 12 15:24:59 51637
+128,0.55,"17km ESE of Little Lake, CA",Tue Oct  6 19:13:00 51637
+129,0.4,"35km N of Spanish Springs, Nevada",Mon Oct  5 18:22:55 51637
+130,0.69,"4km ESE of Lake Henshaw, CA",Sat Oct  3 12:05:20 51637
+131,1.23,"15km SSW of Searles Valley, CA",Thu Oct  1 06:28:40 51637
+132,1.34,"24km N of Searles Valley, CA",Wed Sep 30 02:41:20 51637
+133,1.5,"47km NNW of Yakutat, Alaska",Tue Sep 29 04:29:23 51637
+134,1.16,"18km E of Ridgecrest, CA",Fri Sep 25 23:28:40 51637
+135,0.42,"21km N of Trona, CA",Thu Sep 24 07:59:40 51637
+136,0.38,"24km S of Trona, CA",Wed Sep 23 18:39:50 51637
+137,1.1,"24km NE of Sutton-Alpine, Alaska",Sat Sep 19 20:44:57 51637
+138,2.6,"9km SSE of Challis, Idaho",Sat Sep 19 19:07:33 51637
+139,0.63,"14km NE of Ridgecrest, CA",Fri Sep 18 02:22:20 51637
+140,3.1,"154km SSE of Larsen Bay, Alaska",Thu Sep 17 14:26:59 51637
+141,0.67,"8km WSW of Idyllwild, CA",Thu Sep 17 13:16:20 51637
+142,2.57,"83km ESE of Maneadero, B.C., MX",Wed Sep 16 10:17:10 51637
+143,2.0,"47km NNW of Yakutat, Alaska",Mon Sep 14 23:33:58 51637
+144,1.0,"86km ENE of Cantwell, Alaska",Sat Sep 12 10:09:40 51637
+145,1.48,"29km ENE of Pinnacles, CA",Sat Sep 12 07:20:20 51637
+146,0.62,"15km SW of Searles Valley, CA",Mon Sep  7 13:39:30 51637
+147,0.9,"45km N of Pahrump, Nevada",Mon Sep  7 05:00:20 51637
+148,2.1,"10km SE of Challis, Idaho",Sun Sep  6 00:58:40 51637
+149,1.37,"8km ENE of Ridgecrest, CA",Sun Aug 30 22:49:50 51637
+150,1.28,"12km SSW of Searles Valley, CA",Fri Aug 28 13:33:10 51637
+151,1.3,"95km SE of King Salmon, Alaska",Thu Aug 27 16:21:23 51637
+152,1.8,"38km SSW of Akutan, Alaska",Thu Aug 27 08:06:04 51637
+153,1.47,"18km NW of Lindsay, Oklahoma",Wed Aug 26 03:21:59 51637
+154,1.64,"17km E of Ninnekah, Oklahoma",Wed Aug 26 03:09:40 51637
+155,0.51,"17km SSW of Morton, Washington",Tue Aug 25 05:56:50 51637
+156,0.79,"2km N of Glen Avon, CA",Sun Aug 23 18:23:00 51637
+157,1.0,"14km SSW of Searles Valley, CA",Tue Aug 18 13:14:00 51637
+158,1.7,"150km E of Chitina, Alaska",Mon Aug 17 00:42:32 51637
+159,0.8,"108km W of Cantwell, Alaska",Sat Aug 15 19:26:53 51637
+160,1.3,"35km NE of Hawthorne, Nevada",Wed Aug 12 21:13:30 51637
+161,2.5,"79km SW of False Pass, Alaska",Tue Aug 11 20:14:36 51637
+162,1.09,"9km S of Searles Valley, CA",Tue Aug 11 16:11:10 51637
+163,0.54,"23km N of Ridgecrest, CA",Tue Aug 11 05:44:40 51637
+164,0.67,"21km ENE of Little Lake, CA",Mon Aug 10 21:18:10 51637
+165,4.6,"31km ENE of Ndoi Island, Fiji",Mon Aug 10 05:22:55 51637
+166,0.95,"7km ENE of Coso Junction, CA",Sun Aug  9 22:41:20 51637
+167,0.86,"8km SW of Idyllwild, CA",Wed Aug  5 14:01:30 51637
+168,0.55,"9km NE of Alum Rock, CA",Sat Aug  1 20:44:50 51637
+169,1.46,"15km SW of Searles Valley, CA",Fri Jul 31 21:19:20 51637
+170,1.5,"30km NNE of Eureka, Nevada",Wed Jul 29 05:18:44 51637
+171,4.6,"125km WSW of Kota Ternate, Indonesia",Mon Jul 27 07:18:58 51637
+172,1.4,"97km SSW of Fort McPherson, Canada",Sat Jul 25 06:30:04 51637
+173,1.72,"9km N of Westmorland, CA",Sat Jul 25 05:38:50 51637
+174,2.9,"172km SSE of Larsen Bay, Alaska",Sat Jul 25 00:23:31 51637
+175,0.57,"16km E of Little Lake, CA",Fri Jul 24 15:16:40 51637
+176,0.81,"21km ESE of Little Lake, CA",Wed Jul 22 03:12:40 51637
+177,0.68,"3km ESE of Lake Henshaw, CA",Tue Jul 21 20:48:30 51637
+178,0.42,"10km N of Julian, CA",Sun Jul 19 00:28:10 51637
+179,0.73,"21km ESE of Little Lake, CA",Thu Jul 16 05:36:20 51637
+180,2.8,"36km W of Raton, New Mexico",Wed Jul 15 07:14:35 51637
+181,0.09,"9km NE of Aguanga, CA",Wed Jul 15 00:33:40 51637
+182,1.6,"176km E of Chitina, Alaska",Mon Jul 13 05:00:36 51637
+183,0.7,"181km E of Chitina, Alaska",Sat Jul 11 18:33:40 51637
+184,1.6,"39km NE of Whittier, Alaska",Fri Jul 10 01:23:27 51637
+185,1.2,"56km SSE of Cantwell, Alaska",Thu Jul  9 11:42:43 51637
+186,0.54,"19km N of Ridgecrest, CA",Wed Jul  8 15:56:00 51637
+187,0.79,"6km SSE of Mentone, CA",Sun Jul  5 17:59:40 51637
+188,1.08,"14km ENE of Ridgecrest, CA",Sun Jun 28 16:27:10 51637
+189,5.1,"182km WNW of Pangai, Tonga",Sat Jun 27 15:18:38 51637
+190,0.5,"18km ESE of Anza, CA",Fri Jun 26 06:45:00 51637
+191,1.5,"67km NE of Lone Pine, California",Wed Jun 24 22:23:42 51637
+192,5.0,"218km WNW of Pangai, Tonga",Wed Jun 24 03:25:18 51637
+193,1.11,"10km NE of Coso Junction, CA",Wed Jun 17 17:49:00 51637
+194,6.6,"34km NNE of Ndoi Island, Fiji",Fri Jun 12 19:40:11 51637
+195,1.21,"22km N of Ridgecrest, CA",Thu Jun 11 14:23:20 51637
+196,2.1,"71km NNE of Larsen Bay, Alaska",Wed Jun 10 12:11:45 51637
+197,0.66,"5km NW of The Geysers, CA",Wed Jun 10 02:11:10 51637
+198,1.0,"47km NNW of Yakutat, Alaska",Mon Jun  8 02:22:26 51637
+199,0.8,"54km ENE of Cantwell, Alaska",Fri Jun  5 12:00:21 51637
+200,1.2,"87km W of Haines, Alaska",Fri Jun  5 02:54:30 51637
+201,0.54,"15km ENE of Ridgecrest, CA",Mon Jun  1 18:45:20 51637
+202,0.38,"20km ESE of Little Lake, CA",Sat May 30 16:25:30 51637
+203,0.58,"12km SSW of Searles Valley, CA",Wed May 27 18:53:00 51637
+204,0.87,"21km ESE of Little Lake, CA",Mon May 25 03:51:50 51637
+205,1.1,"14km SSW of Big Lake, Alaska",Sat May 23 11:23:45 51637
+206,0.94,"22km WNW of Searles Valley, CA",Fri May 22 01:56:20 51637
+207,4.5,"40km NE of Yigo Village, Guam",Wed May 20 08:51:17 51637
+208,0.42,"16km W of Searles Valley, CA",Fri May 15 11:17:00 51637
+209,1.6,"67km WNW of Beatty, Nevada",Thu May 14 17:39:33 51637
+210,0.42,"3km NNE of Bolinas, CA",Thu May 14 02:47:40 51637
+211,2.33,"55km NNW of Charlotte Amalie, U.S. Virgin Islands",Wed May 13 12:31:50 51637
+212,1.93,"2km N of Pinnacles, CA",Sat May  9 00:56:20 51637
+213,0.48,"21km E of Little Lake, CA",Wed May  6 15:43:00 51637
+214,0.6,"10km SW of Kelseyville, CA",Tue May  5 23:24:50 51637
+215,1.7,"19km NE of Dutch Harbor, Alaska",Tue May  5 15:28:51 51637
+216,0.85,"10km SW of Monroe, Utah",Tue May  5 14:55:30 51637
+217,0.9,"53km NW of Ester, Alaska",Mon May  4 16:26:36 51637
+218,0.83,"12km SSW of Monroe, Utah",Wed Apr 29 14:24:30 51637
+219,4.4,"12km SE of Copiapo, Chile",Wed Apr 29 05:59:53 51637
+220,1.3,"20km NE of Dutch Harbor, Alaska",Tue Apr 28 11:14:06 51637
+221,0.8,"5km S of Borrego Springs, CA",Mon Apr 27 14:36:30 51637
+222,0.81,"8km NNW of Borrego Springs, CA",Sun Apr 26 15:29:20 51637
+223,1.61,"7km SE of Lopez Point, CA",Sun Apr 26 02:12:30 51637
+224,1.04,"19km S of Trona, CA",Fri Apr 24 02:07:10 51637
+225,0.77,"8km ESE of Ridgecrest, CA",Wed Apr 22 20:51:40 51637
+226,2.2,"12km WNW of Ault Field, Washington",Sun Apr 19 21:35:40 51637
+227,1.4,"48km ESE of Cape Yakataga, Alaska",Fri Apr 17 16:07:10 51637
+228,0.7,"9km E of Eielson Air Force Base, Alaska",Fri Apr 17 05:31:55 51637
+229,1.02,"4km NNW of Mira Loma, CA",Thu Apr 16 16:02:50 51637
+230,2.3,"14km S of Honaunau-Napoopoo, Hawaii",Tue Apr 14 02:49:30 51637
+231,0.98,"13km WNW of Ault Field, Washington",Mon Apr 13 02:08:40 51637
+232,2.9,"9km SSE of Big Lake, Alaska",Sat Apr 11 20:50:56 51637
+233,1.9,"105km NE of Eagle Village, Alaska",Sun Apr  5 11:11:29 51637
+234,1.18,"0km NNE of The Geysers, CA",Thu Apr  2 21:05:40 51637
+235,1.35,"9km SW of Monroe, Utah",Thu Apr  2 12:41:10 51637
+236,0.9,"47km WNW of Cape Yakataga, Alaska",Wed Apr  1 11:15:28 51637
+237,0.71,"17km SW of Honeyville, Utah",Tue Mar 31 07:30:40 51637
+238,2.61,"15km SE of Mineral, CA",Tue Mar 31 02:36:50 51637
+239,0.4,"2km NNW of The Geysers, CA",Sat Mar 28 22:57:00 51637
+240,0.85,"2km E of The Geysers, CA",Sat Mar 28 14:33:50 51637
+241,1.01,"15km ESE of Little Lake, CA",Sat Mar 28 14:13:20 51637
+242,0.72,"9km NE of Coso Junction, CA",Sat Mar 28 03:58:10 51637
+243,1.71,"16km NE of Pahala, Hawaii",Fri Mar 27 10:07:10 51637
+244,0.51,"9km ENE of Julian, CA",Wed Mar 25 16:00:00 51637
+245,1.1,"23km E of Alamo, Nevada",Sat Mar 21 09:04:00 51637
+246,2.26,"9km SW of Monroe, Utah",Fri Mar 20 20:30:20 51637
+247,1.74,"12km WNW of Ault Field, Washington",Thu Mar 19 08:01:00 51637
+248,0.78,"9km NE of Alum Rock, CA",Tue Mar 17 17:46:10 51637
+249,-0.14,"4km E of Mammoth Lakes, CA",Mon Mar 16 10:35:30 51637
+250,0.82,"24km N of Ridgecrest, CA",Sat Mar 14 17:40:10 51637
+251,0.84,"24km N of Ridgecrest, CA",Sat Mar  7 16:32:00 51637
+252,1.43,"19km SSW of Enterprise, Utah",Sat Mar  7 00:27:40 51637
+253,1.67,"9km SW of Monroe, Utah",Fri Mar  6 17:37:20 51637
+254,0.61,"8km NNE of Borrego Springs, CA",Fri Mar  6 16:53:20 51637
+255,2.8,"31km W of Raton, New Mexico",Fri Mar  6 00:05:25 51637
+256,0.7,"37km E of Big Pine, California",Thu Mar  5 12:02:43 51637
+257,1.4,"13km S of Ponce, Puerto Rico",Wed Mar  4 22:47:20 51637
+258,1.3,"86km NNW of Valdez, Alaska",Mon Mar  2 02:22:53 51637
+259,1.39,"12km WNW of Ault Field, Washington",Sun Mar  1 18:47:30 51637
+260,1.53,"5km SW of Sabana Grande, Puerto Rico",Sat Feb 28 13:58:20 51637
+261,0.49,"9km S of Searles Valley, CA",Thu Feb 26 21:22:40 51637
+262,3.1,"3km W of South Hutchinson, Kansas",Thu Feb 26 08:50:51 51637
+263,0.44,"9km ENE of Julian, CA",Wed Feb 25 05:06:20 51637
+264,1.49,"17km SSW of Searles Valley, CA",Mon Feb 23 02:30:00 51637
+265,0.83,"16km W of Searles Valley, CA",Fri Feb 20 16:20:00 51637
+266,0.76,"16km W of Searles Valley, CA",Fri Feb 20 11:09:50 51637
+267,1.1,"99km WNW of Talkeetna, Alaska",Thu Feb 19 04:26:49 51637
+268,1.05,"19km S of Trona, CA",Sat Feb 14 13:11:00 51637
+269,0.57,"7km WNW of The Geysers, CA",Fri Feb 13 08:21:10 51637
+270,1.2,"45km NNW of Yakutat, Alaska",Fri Feb 13 02:06:57 51637
+271,2.08,"17km SSW of Searles Valley, CA",Thu Feb 12 17:00:10 51637
+272,0.76,"17km S of Searles Valley, CA",Tue Feb 10 11:03:20 51637
+273,1.18,"15km SSW of Searles Valley, CA",Mon Feb  9 22:41:30 51637
+274,0.71,"17km N of Borrego Springs, CA",Sun Feb  8 23:03:20 51637
+275,2.7,"32km W of Raton, New Mexico",Sat Feb  7 23:19:19 51637
+276,1.39,"12km WNW of Ault Field, Washington",Thu Feb  5 03:49:30 51637
+277,1.0,"46km NNW of Yakutat, Alaska",Sun Feb  1 07:03:18 51637
+278,1.3,"120km NNW of Arctic Village, Alaska",Sat Jan 31 05:41:31 51637
+279,1.84,"13km S of Tres Pinos, CA",Fri Jan 30 16:47:50 51637
+280,0.69,"18km E of Little Lake, CA",Wed Jan 28 17:17:40 51637
+281,0.14,"22km ESE of Little Lake, CA",Tue Jan 20 08:16:30 51637
+282,2.2,"16km SE of Soldotna, Alaska",Tue Jan 20 02:12:21 51637
+283,0.11,"9km W of Anza, CA",Sat Jan 17 03:33:20 51637
+284,1.1,"9km W of Anza, CA",Thu Jan 15 07:51:20 51637
+285,0.88,"6km NW of San Francisco Zoo, CA",Wed Jan 14 13:46:10 51637
+286,1.0,"105km ENE of Circle, Alaska",Wed Jan 14 08:52:58 51637
+287,0.6,"46km NNW of Yakutat, Alaska",Mon Jan 12 18:14:35 51637
+288,0.66,"10km E of Desert Hot Springs, CA",Mon Jan 12 08:18:50 51637
+289,0.82,"16km E of Little Lake, CA",Mon Jan 12 04:10:20 51637
+290,0.33,"23km N of Ridgecrest, CA",Thu Jan  8 17:28:40 51637
+291,0.87,"19km ESE of Little Lake, CA",Tue Jan  6 03:39:10 51637
+292,1.1,"49km NNW of Yakutat, Alaska",Mon Jan  5 20:59:24 51637
+293,2.48,"19km S of Trona, CA",Sun Jan  4 21:24:10 51637
+294,0.09,"20km ESE of Little Lake, CA",Sun Jan  4 07:07:50 51637
+295,0.28,"20km ESE of Little Lake, CA",Sun Jan  4 00:03:00 51637
+296,1.5,"46km NNW of Yakutat, Alaska",Sat Jan  3 14:38:29 51637
+297,1.5,"10km S of Progreso, B.C., MX",Sat Jan  3 06:45:30 51637
+298,2.6,"49km NNW of Yakutat, Alaska",Fri Jan  2 17:02:42 51637
+299,0.75,"19km E of Little Lake, CA",Wed Dec 31 04:52:40 51636
+300,4.8,"126km SSE of Pondaguitan, Philippines",Tue Dec 30 09:14:03 51636
+301,1.2,"8km ENE of Julian, CA",Tue Dec 30 03:08:30 51636
+302,1.79,"11km NNW of Kettleman City, CA",Mon Dec 29 19:48:00 51636
+303,1.71,"4km S of Idyllwild, CA",Sat Dec 27 08:40:50 51636
+304,1.1,"45km NNW of Yakutat, Alaska",Thu Dec 25 23:22:50 51636
+305,2.0,"120km W of Cantwell, Alaska",Thu Dec 25 15:55:01 51636
+306,1.1,"40km WNW of Trinidad, Colorado",Wed Dec 24 20:54:50 51636
+307,0.8,"42km NE of Mammoth Lakes, California",Wed Dec 24 07:08:03 51636
+308,0.7,"44km NNW of Yakutat, Alaska",Fri Dec 19 13:53:28 51636
+309,0.62,"2km N of Mira Loma, CA",Wed Dec 17 20:14:40 51636
+310,1.2,"44km NNW of Yakutat, Alaska",Wed Dec 17 06:44:24 51636
+311,1.15,"20km ESE of Little Lake, CA",Wed Dec 17 05:43:20 51636
+312,4.6,"165km WNW of Tobelo, Indonesia",Tue Dec 16 20:51:30 51636
+313,0.78,"17km SSW of Searles Valley, CA",Tue Dec 16 05:33:20 51636
+314,3.5,"38km WNW of Trinidad, Colorado",Thu Dec 11 00:22:22 51636
+315,1.1,"47km NNW of Yakutat, Alaska",Wed Dec 10 10:45:35 51636
+316,1.61,"12km SW of Searles Valley, CA",Wed Dec 10 06:04:50 51636
+317,0.84,"8km ENE of Coso Junction, CA",Wed Dec 10 01:20:10 51636
+318,0.99,"8km NE of Coso Junction, CA",Mon Dec  8 15:41:20 51636
+319,0.57,"10km NW of Aguanga, CA",Sun Dec  7 21:05:30 51636
+320,1.9,"87km WSW of Haines, Alaska",Fri Dec  5 02:42:27 51636
+321,0.89,"18km W of Johannesburg, CA",Thu Dec  4 21:36:40 51636
+322,0.64,"13km ESE of Idyllwild, CA",Tue Dec  2 16:41:10 51636
+323,0.69,"18km S of Trona, CA",Thu Nov 27 00:25:10 51636
+324,1.5,"46km NNW of Yakutat, Alaska",Tue Nov 25 09:45:40 51636
+325,1.3,"46km NNW of Yakutat, Alaska",Tue Nov 25 06:08:23 51636
+326,1.0,"28km WSW of Hawthorne, Nevada",Sat Nov 22 21:51:41 51636
+327,1.12,"15km W of Searles Valley, CA",Sat Nov 22 03:19:00 51636
+328,1.73,"22km N of Searles Valley, CA",Thu Nov 20 20:56:20 51636
+329,1.71,"16km NE of Hawaiian Ocean View, Hawaii",Tue Nov 18 06:49:20 51636
+330,2.14,"16km S of Searles Valley, CA",Mon Nov 17 17:44:00 51636
+331,1.1,"67km NW of Valdez, Alaska",Mon Nov 17 01:20:39 51636
+332,1.6,"90km W of Haines, Alaska",Sat Nov 15 05:38:56 51636
+333,1.9,"46km NNW of Yakutat, Alaska",Tue Nov 11 19:24:35 51636
+334,2.6,"27km WNW of Talkeetna, Alaska",Tue Nov 11 17:01:16 51636
+335,0.46,"21km ESE of Little Lake, CA",Mon Nov 10 22:29:30 51636
+336,1.78,"22km NNW of Searles Valley, CA",Mon Nov 10 00:40:10 51636
+337,1.71,"18km SSW of Trona, CA",Sun Nov  9 16:46:00 51636
+338,0.84,"14km ESE of Ridgecrest, CA",Sun Nov  9 02:48:40 51636
+339,0.78,"15km WSW of Searles Valley, CA",Thu Nov  6 23:40:50 51636
+340,2.0,"79km ESE of Cape Yakataga, Alaska",Wed Nov  5 23:46:12 51636
+341,1.22,"3km ENE of The Geysers, CA",Wed Nov  5 23:11:50 51636
+342,1.9,"42km NNW of Yakutat, Alaska",Wed Nov  5 10:40:19 51636
+343,0.38,"19km E of Little Lake, CA",Wed Nov  5 03:58:30 51636
+344,2.0,"82km WNW of Yakutat, Alaska",Tue Nov  4 17:49:39 51636
+345,1.01,"18km E of Little Lake, CA",Tue Nov  4 09:44:00 51636
+346,2.05,"15km ENE of Ridgecrest, CA",Sun Nov  2 20:19:10 51636
+347,4.6,"151km ESE of Kimbe, Papua New Guinea",Sun Nov  2 09:54:31 51636
+348,0.9,"43km NNW of Yakutat, Alaska",Tue Oct 28 12:07:54 51636
+349,1.8,"47km NNW of Yakutat, Alaska",Mon Oct 27 07:02:01 51636
+350,0.98,"10km SW of Morongo Valley, CA",Sat Oct 25 03:54:10 51636
+351,0.79,"20km WNW of Searles Valley, CA",Thu Oct 23 22:35:00 51636
+352,1.9,"48km NNW of Yakutat, Alaska",Wed Oct 22 17:02:13 51636
+353,3.2,"7km S of Big Lake, Alaska",Tue Oct 21 05:06:48 51636
+354,0.79,"8km NE of Coso Junction, CA",Mon Oct 20 23:02:40 51636
+355,2.4,"124km E of Bethel, Alaska",Fri Oct 17 17:01:34 51636
+356,0.4,"4km NW of Little Lake, CA",Thu Oct 16 23:26:00 51636
+357,0.9,"123km W of Haines Junction, Canada",Thu Oct 16 00:05:05 51636
+358,1.3,"97km SSW of Fort McPherson, Canada",Tue Oct 14 19:04:00 51636
+359,0.74,"12km NE of Ridgecrest, CA",Mon Oct 13 22:06:00 51636
+360,0.81,"18km SSW of Searles Valley, CA",Sun Oct 12 16:03:00 51636
+361,0.56,"11km E of Ridgecrest, CA",Thu Oct  9 01:30:30 51636
+362,1.4,"118km NNW of Arctic Village, Alaska",Tue Oct  7 08:32:19 51636
+363,2.28,"18km S of Fern Acres, Hawaii",Thu Oct  2 19:26:20 51636
+364,0.83,"22km E of Coso Junction, CA",Wed Oct  1 13:30:10 51636
+365,0.84,"15km SSW of Searles Valley, CA",Tue Sep 30 21:28:30 51636
+366,1.12,"14km NE of Ridgecrest, CA",Mon Sep 29 12:51:40 51636
+367,1.12,"1km SSW of Lake Elsinore, CA",Mon Sep 29 12:08:20 51636
+368,1.03,"17km W of Searles Valley, CA",Sat Sep 27 21:48:50 51636
+369,0.57,"17km SSW of Morton, Washington",Fri Sep 26 18:43:00 51636
+370,1.2,"144km WNW of Haines Junction, Canada",Fri Sep 26 08:28:45 51636
+371,0.9,"122km W of Haines Junction, Canada",Fri Sep 26 02:07:15 51636
+372,0.81,"7km SSE of Yucca Valley, CA",Wed Sep 24 11:11:20 51636
+373,0.44,"12km SSW of Searles Valley, CA",Tue Sep 23 23:45:50 51636
+374,0.5,"16km SSW of Morton, Washington",Tue Sep 23 22:50:00 51636
+375,0.32,"22km ESE of Little Lake, CA",Mon Sep 22 11:18:40 51636
+376,0.39,"14km ENE of Ridgecrest, CA",Sat Sep 20 11:49:50 51636
+377,1.71,"17km ESE of Little Lake, CA",Wed Sep 17 11:50:50 51636
+378,1.59,"7km ENE of Pinnacles, CA",Tue Sep 16 14:25:20 51636
+379,1.72,"4km SW of Volcano, Hawaii",Mon Sep 15 21:53:00 51636
+380,1.9,"4km SW of Volcano, Hawaii",Mon Sep 15 21:52:20 51636
+381,0.9,"73km S of Kobuk, Alaska",Sun Sep 14 13:02:51 51636
+382,1.18,"15km SSW of Searles Valley, CA",Fri Sep 12 09:49:30 51636
+383,0.47,"18km E of Little Lake, CA",Thu Sep 11 20:18:50 51636
+384,0.57,"24km ESE of Little Lake, CA",Sun Sep  7 14:31:50 51636
+385,1.7,"17km SW of Alva, Oklahoma",Sat Sep  6 06:23:20 51636
+386,0.83,"24km N of Ridgecrest, CA",Wed Sep  3 21:02:10 51636
+387,0.95,"14km W of Searles Valley, CA",Mon Sep  1 22:00:00 51636
+388,1.56,"14km W of Searles Valley, CA",Sun Aug 31 23:30:30 51636
+389,1.74,"9km SSW of Leilani Estates, Hawaii",Sun Aug 31 16:48:40 51636
+390,0.75,"18km S of Searles Valley, CA",Sat Aug 30 12:01:10 51636
+391,0.2,"69km NNE of Pahrump, Nevada",Sat Aug 30 08:00:55 51636
+392,0.63,"20km S of La Quinta, CA",Thu Aug 28 13:27:40 51636
+393,0.86,"24km N of Ridgecrest, CA",Wed Aug 27 06:38:10 51636
+394,2.0,"88km W of Haines, Alaska",Mon Aug 25 18:07:14 51636
+395,1.2,"48km NNW of Yakutat, Alaska",Fri Aug 22 01:11:26 51636
+396,1.55,"22km N of Searles Valley, CA",Thu Aug 21 06:30:10 51636
+397,0.49,"7km ENE of Moreno Valley, CA",Thu Aug 21 02:17:40 51636
+398,1.5,"49km NNW of Yakutat, Alaska",Wed Aug 20 19:21:46 51636
+399,0.73,"20km ESE of Little Lake, CA",Wed Aug 20 10:53:20 51636
+400,0.87,"18km ESE of Little Lake, CA",Tue Aug 19 01:50:00 51636
+401,1.5,"93km W of Haines, Alaska",Fri Aug 15 14:10:47 51636
+402,1.7,"59km W of Anchor Point, Alaska",Tue Aug 12 19:21:43 51636
+403,1.79,"14km SSW of Searles Valley, CA",Tue Aug 12 04:41:00 51636
+404,1.87,"15km W of Coalville, Utah",Sun Aug 10 00:07:00 51636
+405,0.85,"20km ESE of Little Lake, CA",Fri Aug  8 06:51:00 51636
+406,1.37,"13km NW of West Yellowstone, Montana",Thu Aug  7 02:07:30 51636
+407,1.02,"16km ESE of Ridgecrest, CA",Wed Aug  6 07:48:00 51636
+408,2.03,"8km WSW of Progreso, B.C., MX",Wed Aug  6 00:54:10 51636
+409,0.82,"22km ESE of Little Lake, CA",Tue Aug  5 15:22:20 51636
+410,0.35,"21km ESE of Little Lake, CA",Sat Aug  2 23:56:40 51636
+411,2.62,"9km N of Camuy, Puerto Rico",Sat Aug  2 23:08:00 51636
+412,2.5,"50km NNW of Yakutat, Alaska",Thu Jul 31 12:48:19 51636
+413,0.38,"23km WNW of Searles Valley, CA",Wed Jul 30 21:49:10 51636
+414,0.7,"13km WSW of Searles Valley, CA",Tue Jul 29 19:36:50 51636
+415,1.0,"94km W of Haines, Alaska",Tue Jul 29 03:59:54 51636
+416,1.1,"20km ESE of Glennallen, Alaska",Sat Jul 26 21:25:04 51636
+417,4.6,"156km SSW of `Ohonua, Tonga",Sat Jul 26 00:37:56 51636
+418,1.33,"22km W of Johannesburg, CA",Wed Jul 23 13:59:10 51636
+419,1.6,"90km W of Haines, Alaska",Tue Jul 22 08:35:38 51636
+420,1.0,"50km WNW of Cape Yakataga, Alaska",Mon Jul 21 17:14:11 51636
+421,1.2,"17km E of East Quincy, California",Sun Jul 20 09:01:12 51636
+422,1.4,"21km N of Searles Valley, CA",Sat Jul 19 15:19:10 51636
+423,0.39,"8km NE of Anza, CA",Sat Jul 19 14:11:40 51636
+424,1.8,"116km NNE of Arctic Village, Alaska",Sat Jul 19 11:55:55 51636
+425,1.26,"12km SSW of Searles Valley, CA",Fri Jul 18 08:45:50 51636
+426,1.95,"6km WNW of Mira Loma, CA",Thu Jul 17 15:07:10 51636
+427,1.12,"6km WNW of Mira Loma, CA",Thu Jul 17 12:14:10 51636
+428,1.62,"6km WNW of The Geysers, CA",Tue Jul  8 19:12:10 51636
+429,0.28,"6km WNW of The Geysers, CA",Fri Jul  4 07:56:50 51636
+430,1.6,"104km NW of Arctic Village, Alaska",Thu Jul  3 15:39:06 51636
+431,2.5,"88km W of Haines, Alaska",Thu Jul  3 13:36:43 51636
+432,2.82,"2km ESE of Levittown, Puerto Rico",Wed Jul  2 21:20:20 51636
+433,1.2,"17km NNW of Anchorage, Alaska",Mon Jun 30 08:39:11 51636
+434,2.0,"38km WSW of Anchor Point, Alaska",Wed Jun 25 15:08:31 51636
+435,0.85,"7km S of Redlands, CA",Wed Jun 25 05:20:30 51636
+436,1.91,"19km ESE of Little Lake, CA",Tue Jun 24 13:33:20 51636
+437,1.3,"87km WNW of Arctic Village, Alaska",Mon Jun 23 01:35:29 51636
+438,1.51,"10km ENE of Coso Junction, CA",Sun Jun 22 18:46:30 51636
+439,1.4,"58km NNE of Yakutat, Alaska",Fri Jun 20 19:38:40 51636
+440,0.39,"6km WNW of The Geysers, CA",Thu Jun 19 23:04:20 51636
+441,1.26,"12km SSW of Searles Valley, CA",Wed Jun 18 11:19:50 51636
+442,2.05,"22km SSE of Helena, Oklahoma",Wed Jun 18 06:12:49 51636
+443,0.93,"14km ENE of Ridgecrest, CA",Mon Jun 16 20:05:20 51636
+444,2.48,"8km NE of Alum Rock, CA",Sun Jun 15 03:18:40 51636
+445,-0.12,"8km NNW of West Yellowstone, Montana",Sat Jun 14 07:22:10 51636
+446,1.5,"6km WNW of The Geysers, CA",Thu Jun 12 00:22:30 51636
+447,0.27,"6km WNW of The Geysers, CA",Wed Jun 11 10:28:10 51636
+448,0.6,"124km W of Haines Junction, Canada",Wed Jun 11 09:50:27 51636
+449,1.38,"9km NE of Alum Rock, CA",Wed Jun 11 05:34:20 51636
+450,1.0,"89km W of Haines, Alaska",Tue Jun 10 18:20:38 51636
+451,0.55,"23km ESE of Little Lake, CA",Mon Jun  9 12:55:00 51636
+452,2.29,"4km S of Pahala, Hawaii",Sun Jun  8 05:31:10 51636
+453,0.91,"16km SSW of Searles Valley, CA",Fri Jun  6 06:50:30 51636
+454,1.2,"92km W of Haines, Alaska",Tue Jun  3 15:26:31 51636
+455,0.47,"23km N of Ridgecrest, CA",Tue Jun  3 02:02:00 51636
+456,0.96,"13km WSW of Searles Valley, CA",Thu May 29 21:17:20 51636
+457,0.53,"14km W of Searles Valley, CA",Wed May 28 05:03:20 51636
+458,0.6,"121km W of Haines Junction, Canada",Mon May 26 07:10:02 51636
+459,0.63,"11km W of Searles Valley, CA",Wed May 21 07:31:40 51636
+460,3.28,"25km SE of Punta Cana, Dominican Republic",Tue May 20 08:07:20 51636
+461,1.54,"14km NNE of Coso Junction, CA",Mon May 19 10:07:30 51636
+462,0.8,"22km ESE of Little Lake, CA",Sat May 17 18:21:50 51636
+463,0.93,"19km E of Little Lake, CA",Sat May 17 10:34:00 51636
+464,0.62,"6km WNW of Cobb, CA",Fri May 16 04:33:30 51636
+465,0.9,"120km W of Haines Junction, Canada",Thu May 15 10:39:36 51636
+466,4.7,"35km SW of Sarangani, Philippines",Mon May 12 15:49:03 51636
+467,0.4,"55km SSW of Redoubt Volcano, Alaska",Fri May  9 07:33:00 51636
+468,1.1,"97km SSW of Fort McPherson, Canada",Fri May  9 01:57:40 51636
+469,1.34,"15km ENE of Ridgecrest, CA",Tue May  6 12:23:30 51636
+470,0.98,"21km ESE of Little Lake, CA",Mon May  5 13:37:10 51636
+471,1.02,"7km WNW of Searles Valley, CA",Sat May  3 13:44:50 51636
+472,0.7,"10km WSW of Searles Valley, CA",Fri May  2 17:42:30 51636
+473,2.7,"85km W of Haines, Alaska",Fri May  2 06:02:22 51636
+474,1.18,"23km NE of San Ardo, CA",Thu May  1 06:59:20 51636
+475,1.61,"11km SSW of Searles Valley, CA",Mon Apr 28 18:46:00 51636
+476,0.7,"120km W of Haines Junction, Canada",Mon Apr 28 07:39:44 51636
+477,0.47,"14km ENE of Ridgecrest, CA",Sun Apr 27 16:46:00 51636
+478,1.97,"1km SW of Espino, Puerto Rico",Sun Apr 27 10:35:40 51636
+479,1.43,"7km NE of Coso Junction, CA",Sat Apr 26 02:49:50 51636
+480,0.8,"24km ESE of Little Lake, CA",Thu Apr 24 21:46:40 51636
+481,1.0,"9km SE of Big Lake, Alaska",Wed Apr 23 09:18:32 51636
+482,0.4,"122km W of Haines Junction, Canada",Wed Apr 23 02:17:48 51636
+483,0.6,"122km W of Haines Junction, Canada",Tue Apr 22 18:38:37 51636
+484,4.3,"48km W of Rota, Northern Mariana Islands",Tue Apr 22 08:26:13 51636
+485,0.7,"18km E of Little Lake, CA",Sat Apr 19 08:15:00 51636
+486,1.5,"68km ESE of Cantwell, Alaska",Fri Apr 18 11:32:25 51636
+487,1.15,"16km E of Fairview, Utah",Thu Apr 17 23:28:50 51636
+488,1.8,"16km NW of Pinnacles, CA",Wed Apr 16 07:06:00 51636
+489,0.71,"3km NNW of Mira Loma, CA",Mon Apr 14 12:49:00 51636
+490,0.8,"15km WSW of Searles Valley, CA",Sun Apr 13 09:28:50 51636
+491,1.12,"18km S of Trona, CA",Sat Apr 12 06:37:40 51636
+492,0.82,"13km SW of Searles Valley, CA",Fri Apr 11 13:42:10 51636
+493,0.55,"5km NNW of The Geysers, CA",Wed Apr  9 17:26:00 51636
+494,1.27,"15km SSW of Searles Valley, CA",Mon Apr  7 19:37:50 51636
+495,1.0,"87km W of Haines, Alaska",Mon Apr  7 02:59:11 51636
+496,0.18,"13km NNW of West Yellowstone, Montana",Sun Apr  6 06:25:10 51636
+497,0.71,"8km ENE of Coso Junction, CA",Thu Apr  3 18:18:40 51636
+498,0.69,"19km WNW of Searles Valley, CA",Thu Apr  3 09:18:10 51636
+499,0.56,"7km WNW of The Geysers, CA",Wed Apr  2 23:33:50 51636
+500,0.37,"21km NNE of Old Faithful Geyser, Wyoming",Mon Mar 31 12:07:20 51636
+501,1.5,"74km WNW of Fort Yukon, Alaska",Sat Mar 29 10:20:36 51636
+502,1.4,"50km E of Warm Springs, Nevada",Fri Mar 28 12:46:45 51636
+503,1.08,"19km ESE of Little Lake, CA",Wed Mar 26 11:10:10 51636
+504,2.1,"92km W of Haines, Alaska",Wed Mar 26 00:34:06 51636
+505,1.0,"97km ENE of Fort Yukon, Alaska",Sun Mar 23 19:24:23 51636
+506,3.2,"87km W of Haines, Alaska",Sun Mar 23 05:28:34 51636
+507,0.33,"13km ESE of Mammoth Lakes, CA",Wed Mar 19 22:56:10 51636
+508,3.0,"87km WSW of Haines, Alaska",Tue Mar 18 18:39:31 51636
+509,4.3,"123km WSW of Coquimbo, Chile",Sat Mar 15 11:14:22 51636
+510,-0.15,"15km SSW of Searles Valley, CA",Thu Mar 13 20:36:30 51636
+511,0.18,"7km E of Coso Junction, CA",Thu Mar 13 08:16:30 51636
+512,0.24,"26km S of Trona, CA",Thu Mar 13 01:34:40 51636
+513,0.55,"14km SW of Searles Valley, CA",Wed Mar 12 22:08:30 51636
+514,1.1,"86km W of Haines, Alaska",Tue Mar 11 08:51:00 51636
+515,1.3,"84km W of Haines, Alaska",Mon Mar 10 13:45:24 51636
+516,2.14,"3km SSE of Palmarejo, Puerto Rico",Mon Mar 10 11:49:20 51636
+517,1.0,"85km W of Haines, Alaska",Sun Mar  9 06:51:03 51636
+518,1.24,"10km NNE of Coso Junction, CA",Sat Mar  8 09:25:10 51636
+519,0.63,"22km WNW of Searles Valley, CA",Fri Mar  7 07:55:20 51636
+520,1.3,"86km W of Haines, Alaska",Fri Mar  7 03:07:54 51636
+521,1.7,"90km W of Haines, Alaska",Wed Mar  5 18:50:29 51636
+522,0.87,"2km E of The Geysers, CA",Wed Mar  5 05:19:00 51636
+523,1.1,"17km E of Little Lake, CA",Tue Mar  4 23:35:00 51636
+524,0.27,"7km WNW of The Geysers, CA",Tue Mar  4 16:38:20 51636
+525,2.4,"90km WSW of Haines, Alaska",Mon Mar  3 23:38:22 51636
+526,0.56,"7km WNW of The Geysers, CA",Mon Mar  3 04:39:50 51636
+527,4.5,"106km NNW of Agrihan, Northern Mariana Islands",Mon Mar  3 03:46:18 51636
+528,1.5,"83km W of Haines, Alaska",Sun Mar  2 15:13:00 51636
+529,1.7,"90km W of Haines, Alaska",Sun Mar  2 00:01:54 51636
+530,1.13,"13km ENE of Ridgecrest, CA",Sat Mar  1 08:16:10 51636
+531,2.8,"84km W of Haines, Alaska",Thu Feb 28 03:45:00 51636
+532,3.1,"86km W of Haines, Alaska",Wed Feb 27 18:46:20 51636
+533,3.1,"88km W of Haines, Alaska",Wed Feb 27 06:08:07 51636
+534,0.8,"9km ENE of Coso Junction, CA",Tue Feb 26 18:10:40 51636
+535,5.0,"82km W of Haines, Alaska",Mon Feb 25 05:35:38 51636
+536,2.62,"50km WSW of Rincon, Puerto Rico",Sun Feb 24 08:09:30 51636
+537,1.6,"3km SSW of Palmarejo, Puerto Rico",Fri Feb 22 21:35:00 51636
+538,0.77,"21km ESE of Little Lake, CA",Fri Feb 22 18:40:40 51636
+539,0.59,"20km ESE of Little Lake, CA",Thu Feb 21 11:47:40 51636
+540,1.0,"44km NNE of Yakutat, Alaska",Tue Feb 19 17:34:51 51636
+541,0.77,"3km NW of The Geysers, CA",Mon Feb 18 02:20:20 51636
+542,2.32,"15km W of Searles Valley, CA",Sun Feb 17 14:10:20 51636
+543,1.1,"109km NNW of Talkeetna, Alaska",Mon Feb 11 03:15:33 51636
+544,0.54,"5km NW of The Geysers, CA",Sat Feb  9 16:02:10 51636
+545,1.9,"117km WSW of Gustavus, Alaska",Wed Feb  6 18:02:42 51636
+546,0.71,"18km E of Little Lake, CA",Mon Feb  4 23:10:50 51636
+547,0.39,"14km ENE of Ridgecrest, CA",Mon Feb  4 15:14:30 51636
+548,1.77,"6km WNW of Toms Place, CA",Mon Feb  4 08:54:30 51636
+549,1.14,"17km E of Little Lake, CA",Wed Jan 30 05:28:10 51636
+550,0.9,"94km SSW of Fort McPherson, Canada",Fri Jan 25 00:41:32 51636
+551,0.0,"44km N of Pahrump, Nevada",Thu Jan 24 21:50:08 51636
+552,0.85,"13km SSW of Searles Valley, CA",Tue Jan 22 15:34:20 51636
+553,0.96,"8km ENE of Coso Junction, CA",Tue Jan 22 09:46:50 51636
+554,2.6,"69km SSW of Kaktovik, Alaska",Mon Jan 21 13:51:04 51636
+555,0.82,"14km SW of Searles Valley, CA",Sun Jan 20 06:30:00 51636
+556,1.2,"71km WNW of Arctic Village, Alaska",Thu Jan 17 00:54:42 51636
+557,1.91,"8km ENE of Coso Junction, CA",Sat Jan 12 14:58:50 51636
+558,1.1,"90km WNW of Cantwell, Alaska",Sat Jan 12 03:16:10 51636
+559,2.73,"3km WNW of Mayaguez, Puerto Rico",Fri Jan 11 23:53:30 51636
+560,0.68,"20km E of Little Lake, CA",Mon Jan  7 07:49:40 51636
+561,0.79,"21km NNW of Searles Valley, CA",Sat Jan  5 18:55:30 51636
+562,4.3,South of the Fiji Islands,Thu Jan  3 13:18:11 51636
+563,0.63,"6km NNE of Claremont, CA",Tue Jan  1 03:21:30 51636
+564,1.05,"16km SE of Olancha, CA",Mon Dec 31 07:46:40 51635
+565,1.37,"16km ESE of Little Lake, CA",Sat Dec 29 20:45:30 51635
+566,1.7,"103km NE of Eagle Village, Alaska",Sat Dec 29 03:24:11 51635
+567,0.75,"17km ESE of Little Lake, CA",Tue Dec 25 11:00:30 51635
+568,0.73,"12km ENE of Coso Junction, CA",Sun Dec 23 16:38:00 51635
+569,1.25,"22km NW of Ocotillo, CA",Thu Dec 20 20:29:10 51635
+570,0.79,"18km S of Trona, CA",Wed Dec 19 06:35:10 51635
+571,1.3,"62km WNW of Noatak, Alaska",Tue Dec 18 07:15:59 51635
+572,0.47,"16km ESE of Little Lake, CA",Sun Dec 16 16:33:30 51635
+573,0.1,"5km SSW of Ester, Alaska",Sun Dec 16 08:57:15 51635
+574,1.44,"12km WSW of Searles Valley, CA",Fri Dec 14 09:32:10 51635
+575,1.4,"17km E of Ridgecrest, CA",Thu Dec 13 03:25:10 51635
+576,5.5,Southern East Pacific Rise,Wed Dec  5 13:38:45 51635
+577,0.57,"10km WSW of Searles Valley, CA",Tue Dec  4 13:03:50 51635
+578,1.0,"141km W of Cantwell, Alaska",Mon Dec  3 09:51:54 51635
+579,1.68,"14km SSW of Searles Valley, CA",Sun Dec  2 09:52:00 51635
+580,2.4,"91km SSW of Unalaska, Alaska",Sat Dec  1 03:40:40 51635
+581,0.46,"7km ESE of Mammoth Lakes, CA",Mon Nov 26 12:49:50 51635
+582,3.6,"95km SSW of Fort McPherson, Canada",Sun Nov 25 16:42:47 51635
+583,1.72,"5km ENE of San Joaquin Hills, CA",Sun Nov 25 02:25:50 51635
+584,0.91,"9km ESE of Mammoth Lakes, CA",Sat Nov 24 07:30:10 51635
+585,1.94,"3km SSW of Palmarejo, Puerto Rico",Sat Nov 24 05:33:30 51635
+586,0.77,"13km SSW of Searles Valley, CA",Wed Nov 21 23:56:30 51635
+587,1.26,"22km W of Westmorland, CA",Tue Nov 20 03:06:40 51635
+588,0.55,"4km NW of The Geysers, CA",Mon Nov 19 16:55:30 51635
+589,1.89,"5km NE of Sabana Grande, Puerto Rico",Sat Nov 17 11:26:10 51635
+590,4.0,"93km SE of Yunaska Island, Alaska",Thu Nov 15 12:16:56 51635
+591,1.32,"8km NNW of Borrego Springs, CA",Wed Nov 14 05:37:40 51635
+592,0.72,"16km NNE of Ridgecrest, CA",Tue Nov 13 06:03:20 51635
+593,1.11,"14km NE of Coso Junction, CA",Mon Nov 12 15:07:20 51635
+594,-0.1,"60km N of Pahrump, Nevada",Mon Nov 12 04:03:17 51635
+595,1.2,"79km WSW of Cantwell, Alaska",Mon Nov 12 00:47:56 51635
+596,3.1,"264km WNW of Bandon, Oregon",Mon Nov  5 23:17:41 51635
+597,0.93,"23km ESE of Little Lake, CA",Mon Nov  5 01:22:10 51635
+598,0.86,"18km ESE of Little Lake, CA",Sat Nov  3 06:50:50 51635
+599,0.9,"22km SE of Caliente, Nevada",Fri Nov  2 16:01:10 51635
+600,0.83,"21km ESE of Little Lake, CA",Wed Oct 31 14:14:20 51635
+601,1.2,"52km NE of Whittier, Alaska",Wed Oct 31 13:53:35 51635
+602,0.64,"4km S of Idyllwild, CA",Wed Oct 31 04:16:20 51635
+603,1.02,"8km ENE of Coso Junction, CA",Sat Oct 27 05:50:20 51635
+604,0.85,"22km N of Ridgecrest, CA",Sat Oct 27 02:14:30 51635
+605,0.51,"6km SW of Idyllwild, CA",Mon Oct 22 06:23:10 51635
+606,0.2,"19km ESE of Little Lake, CA",Sun Oct 21 03:00:40 51635
+607,0.74,"17km E of Little Lake, CA",Thu Oct 18 11:18:10 51635
+608,0.65,"24km N of Ridgecrest, CA",Wed Oct 17 21:44:30 51635
+609,0.64,"23km WNW of Searles Valley, CA",Tue Oct 16 22:25:20 51635
+610,-0.11,"97km SE of King Salmon, Alaska",Mon Oct 15 01:51:30 51635
+611,0.76,"13km WSW of Searles Valley, CA",Fri Oct 12 20:25:20 51635
+612,0.71,"21km ESE of Little Lake, CA",Fri Oct 12 07:04:10 51635
+613,1.56,"15km S of Searles Valley, CA",Mon Oct  8 02:13:40 51635
+614,0.41,"1km S of Idyllwild, CA",Sat Oct  6 11:46:20 51635
+615,0.8,"98km SE of King Salmon, Alaska",Thu Oct  4 20:20:32 51635
+616,1.61,"7km WSW of Progreso, B.C., MX",Sun Sep 30 21:50:10 51635
+617,1.0,"6km WSW of North Nenana, Alaska",Sun Sep 30 08:52:16 51635
+618,1.1,"122km W of Haines Junction, Canada",Sat Sep 29 06:19:29 51635
+619,0.6,"25km N of North Nenana, Alaska",Fri Sep 28 07:11:46 51635
+620,1.6,"119km NNW of Arctic Village, Alaska",Wed Sep 26 21:48:48 51635
+621,0.59,"20km E of Little Lake, CA",Tue Sep 25 16:36:20 51635
+622,1.1,"116km SE of McGrath, Alaska",Mon Sep 24 10:34:55 51635
+623,1.1,"145km WNW of Haines Junction, Canada",Fri Sep 21 14:06:49 51635
+624,1.18,"9km ESE of Olancha, CA",Tue Sep 18 17:54:50 51635
+625,1.03,"8km ENE of Coso Junction, CA",Fri Sep 14 07:09:00 51635
+626,0.83,"15km W of Searles Valley, CA",Mon Sep 10 09:13:10 51635
+627,-0.4,"45km ESE of Beatty, Nevada",Sun Sep  9 16:57:44 51635
+628,0.85,"15km ENE of Ridgecrest, CA",Sun Sep  9 12:34:30 51635
+629,-0.5,"46km ESE of Beatty, Nevada",Thu Sep  6 07:51:25 51635
+630,1.32,"12km ENE of Ridgecrest, CA",Tue Sep  4 15:25:40 51635
+631,0.83,"15km ESE of Little Lake, CA",Mon Sep  3 16:26:20 51635
+632,1.78,"6km SSE of Pahala, Hawaii",Sun Sep  2 15:05:20 51635
+633,1.05,"9km ESE of Olancha, CA",Sun Sep  2 08:12:40 51635
+634,1.83,"11km SSE of Ponce, Puerto Rico",Sat Sep  1 23:30:50 51635
+635,0.6,"122km W of Haines Junction, Canada",Sat Sep  1 17:20:05 51635
+636,0.8,"19km ESE of Little Lake, CA",Thu Aug 30 23:12:30 51635
+637,0.31,"1km N of The Geysers, CA",Thu Aug 30 13:33:50 51635
+638,4.1,"265km NNW of Raoul Island, New Zealand",Thu Aug 30 05:00:54 51635
+639,1.52,"23km NE of Oildale, CA",Sun Aug 26 01:10:40 51635
+640,2.03,"11km NE of San Simeon, CA",Sat Aug 25 19:08:00 51635
+641,1.11,"11km S of Trona, CA",Fri Aug 24 09:49:20 51635
+642,4.1,"1km N of Norcia, Italy",Tue Aug 21 22:26:33 51635
+643,2.82,"3km S of Leilani Estates, Hawaii",Tue Aug 21 07:35:20 51635
