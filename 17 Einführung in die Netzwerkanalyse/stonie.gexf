@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2019-12-09">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Martin" label="Martin" />
+      <node id="Sven" label="Sven" />
+      <node id="Thomas" label="Thomas" />
+      <node id="Andrea" label="Andrea" />
+      <node id="Marius" label="Marius" />
+      <node id="Bernd" label="Bernd" />
+      <node id="Fabian" label="Fabian" />
+      <node id="Gregor" label="Gregor" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Martin" target="Sven" />
+      <edge id="1" source="Martin" target="Thomas" />
+      <edge id="2" source="Martin" target="Andrea" />
+      <edge id="3" source="Martin" target="Bernd" />
+      <edge id="4" source="Martin" target="Gregor" />
+      <edge id="5" source="Sven" target="Thomas" />
+      <edge id="6" source="Sven" target="Andrea" />
+      <edge id="7" source="Sven" target="Marius" />
+      <edge id="8" source="Thomas" target="Marius" />
+      <edge id="9" source="Andrea" target="Bernd" />
+      <edge id="10" source="Andrea" target="Fabian" />
+      <edge id="11" source="Andrea" target="Marius" />
+      <edge id="12" source="Marius" target="Bernd" />
+      <edge id="13" source="Bernd" target="Fabian" />
+      <edge id="14" source="Bernd" target="Gregor" />
+    </edges>
+  </graph>
+</gexf>
